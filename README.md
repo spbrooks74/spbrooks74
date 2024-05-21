@@ -5,9 +5,9 @@ Analytics and BI professional with intellectual curiosity adept at leading teams
 
 ## 👨‍💻 Technical Skills
 
-- **Programming:** Python, Shell scripting
-- **Business Intelligence:** Tableau, PowerBI, Microsoft Reporting Services, OAC/OBIEE
-- **Databases:** SQL, MongoDB, Redis, Casandra, Firebase, Oracle, DB2
+- **Programming:** Python, Shell scripting, SQL
+- **Business Intelligence:** Tableau, PowerBI, Microsoft Reporting Services, OAC/OBIEE, Looker
+- **Databases:** MySQL, MongoDB, Redis, Casandra, Firebase, Oracle, DB2, Redshift
 - **Data Engineering:** Docker, Dask, Airflow, NiFi, Hadoop, Spark, PySpark, MPI, Debezium, Kafka, Mosquitto
 - **Data Science:** Scikit-Learn, TensorFlow, NumPy, SciPy, Matplotlib, seaborn, OpenCV, MediaPipe, gym, NLTK, beautifulsoup4, OpenAI API
 - **Web/API:** Flask, Postman, Bootstrap, Swagger, mapbox, Google Places
