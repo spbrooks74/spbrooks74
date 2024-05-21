@@ -1,6 +1,6 @@
 # Hi there, I'm Sean Brooks 👋
 
-Analytics and BI professional with intellectual curiosity adept at leading teams that synthesize organizational data to unlock transformational growth and inspire organizational change.  Skilled at leveraging SQL, Python, and BI Tools to bring together disparate data, using data to make data-driven decisions, building compelling visualizations, and designing ETL processes that minimize technical debt while maximizing business value. 
+Self-Driven Analytics and BI professional with intellectual curiosity and a passion for Data Engineering adept at leading teams that synthesize organizational data to unlock transformational growth and inspire organizational change.  Skilled at leveraging SQL, Python, and BI Tools to bring together disparate data, using data to make data-driven decisions, building compelling visualizations, and designing ETL processes that minimize technical debt while maximizing business value. 
 
 
 ## 👨‍💻 Technical Skills
